@@ -25,3 +25,9 @@
 **Please share about DSC related activities you participated in-**
 > I have participited in two workshops hosted by DSC VIT, Pune one on Google Cloud using Qwiklabs and Another Flutter (Android) Development
 
+**When was this project started?**
+> 12-04-2020
+
+**Solution/Project Name**
+> AR (Augmented Reality) in Anatomy
+
