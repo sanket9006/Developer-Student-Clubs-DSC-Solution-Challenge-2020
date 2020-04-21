@@ -6,10 +6,10 @@
 
 **Team Member's Email :-**
 
-          sanket.9006@gmail.com      
-          prasad323122@gmail.com
-          maheshparkour265512@gmail.com
-          chaitanyaabhang9299@gmail.com
+          1) sanket.9006@gmail.com      
+          2) prasad323122@gmail.com
+          3) maheshparkour265512@gmail.com
+          4) chaitanyaabhang9299@gmail.com
 
 **University Name :-**
 > JSPM's Jayawantrao Sawant College Of Engineering
