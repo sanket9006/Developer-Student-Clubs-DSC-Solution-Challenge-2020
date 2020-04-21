@@ -5,16 +5,16 @@
 
 
 **Team Member 1 Email :-**
-          <p align="center">sanket.9006@gmail.com</p>
+> sanket.9006@gmail.com
           
 **Team Member 2 Email :-**
-          prasad323122@gmail.com
+> prasad323122@gmail.com
           
           
 **Team Member 3 Email :-**
-          maheshparkour265512@gmail.com
+> maheshparkour265512@gmail.com
           
           
 **Team Member 4 Email :-**
-          chaitanyaabhang9299@gmail.com
+> chaitanyaabhang9299@gmail.com
 
