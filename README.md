@@ -5,7 +5,7 @@
 
 
 **Team Member 1 Email :-**
-          sanket.9006@gmail.com
+          <p align="center">sanket.9006@gmail.com</p>
           
 **Team Member 2 Email :-**
           prasad323122@gmail.com
