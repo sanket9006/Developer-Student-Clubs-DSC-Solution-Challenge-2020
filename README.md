@@ -32,6 +32,12 @@
 **Share link to project**
           
           https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020
+        
           
+**Please select one or more products/platform utilized in your solution?**
+
+          1) Google AR Core
+          2) Firebase
+          3) Unity Editor
 
 
