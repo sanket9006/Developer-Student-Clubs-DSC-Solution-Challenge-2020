@@ -41,3 +41,29 @@
           3) Unity Editor
 
 
+**Please share a 2 minute or less video showing off the user journey of your solution**
+
+
+**Please clearly describe the challenge you are looking to solve with technology and how this solution addresses the challenge at hand**
+
+
+**Walk us through the steps you took to test your solution**
+
+
+**Please share the outcome of your testing strategy. What specific feedback did you receive from users? What specifically 
+did you maintain or iterate based on that feedback?**
+
+
+**How will or has your solution improved the lives of people in your community?**
+
+
+**Please walk us through the steps you took to build your solution. Include which products or platforms you used and why. Please include guidance on how to run your code.**
+
+
+**What do you see as the future / next steps for your project? What will take your project to the next level?**
+
+
+**What specific support do you need to achieve that?**
+
+
+**Describe your favorite component (s) /feature (s) of your technical infrastructure and why you chose it/them for your solution.**
