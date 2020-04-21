@@ -28,4 +28,10 @@
 **Solution/Project Name**
 
           AR (Augmented Reality) in Anatomy
+          
+**Share link to project**
+          
+          https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020
+          
+
 
