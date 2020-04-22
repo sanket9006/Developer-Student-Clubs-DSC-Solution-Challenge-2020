@@ -67,7 +67,11 @@ did you maintain or iterate based on that feedback?**
 
 **What do you see as the future / next steps for your project? What will take your project to the next level?**
 
-
+                   Till now the app that we have developed is completely offline there is no need to worry about 
+internet connection in order to see Anatomy of different parts because by default 13 (Body parts) 3D objects are 
+already there. To take the app to the next level I would like to connect it to the cloud so that user can select 
+any part from many available options he wants to see using our app. Also to give VR capability to our app.                
+          
 **What specific support do you need to achieve that?**
 
 
