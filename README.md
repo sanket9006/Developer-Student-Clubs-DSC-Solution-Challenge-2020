@@ -50,7 +50,7 @@
     understand everything from a picture or diagram.
           AR in Anatomy is an app that lets students explore the human body to understand how it works. By using this 
     app Users can see Anatomy of different Human body parts in action, rotate them, zoom in and out. The app also 
-    gives provides labeling on parts. AR helps the student better remember the information they have just learned. 
+    gives labeling of small parts too. AR helps the student better remember the information they have just learned. 
 
 **Walk us through the steps you took to test your solution**
 
