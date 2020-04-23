@@ -78,15 +78,17 @@ did you maintain or iterate based on that feedback?**
 
     1) The first task was to look for 3D files of Anatomy of Different parts of Human Body which are useful for 
        students for these we used Sketchfab's Unity Plugin.
+               After these 3D files were resized/scaled according to expecting size in reality. 
 
 <p align="center"> Following Image shows 3D Files Imported using Sketchfab's Unity Plugin </p>
        
-
 
 <p align="center">
 <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/9999999999999999.png">
 </p>
 
+    2) Prepare Unity's AR scene and make multiple copies of that scene after that replace the 3D object present in each 
+       scene with imported 3D files. 
 
 **What do you see as the future / next steps for your project? What will take your project to the next level?**
 
