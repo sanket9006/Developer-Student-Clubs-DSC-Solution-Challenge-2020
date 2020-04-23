@@ -41,7 +41,9 @@
           1) Google AR Core
           2) Firebase
           3) Unity Editor
-
+<p align="center">
+ <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/Unity + Arcore + Firebase - Copy.png">
+</p>
 
 **Please share a 2 minute or less video showing off the user journey of your solution**
 
