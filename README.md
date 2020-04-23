@@ -77,4 +77,6 @@ did you maintain or iterate based on that feedback?**
 
 **Describe your favorite component (s) /feature (s) of your technical infrastructure and why you chose it/them for your solution.**
                     
-                    My favorite technical infrastructure of my App is whatever 3D models (Anatomy of Parts) are available user can explore/see them in real-world (Augmented Reality)  Normally 3D models are available but the user is able to explore them using Laptop/Desktop, normally they don't support mobile phones.
+                    My favorite technical infrastructure of my App is whatever 3D models (Anatomy of Parts) are
+    available user can explore/see them in real-world (Augmented Reality)  Normally 3D models are available but 
+    the user is able to explore them using Laptop/Desktop, normally they don't support mobile phones.
