@@ -76,6 +76,11 @@ did you maintain or iterate based on that feedback?**
 
 **Please walk us through the steps you took to build your solution. Include which products or platforms you used and why. Please include guidance on how to run your code.**
 
+        The first task was to look for 3D OBJ files of Anatomy of Different parts of Human Body which are useful for students 
+    we can include in our project in order to create Augmented Reality based 3D models. Our app is totally offline so the 
+    cahllenge for us to look for 3D obj in less size. At the end we collected 15 3D obj files that we were going to inculde in
+    our project
+
 <p align="center">
  <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/9999999999999999.png">
 </p>
