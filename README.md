@@ -68,9 +68,7 @@
 **Please share the outcome of your testing strategy. What specific feedback did you receive from users? What specifically 
 did you maintain or iterate based on that feedback?**
 
-<p align="center">
- <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/9999999999999999.png">
-</p>
+
 
 
 **How will or has your solution improved the lives of people in your community?**
@@ -78,6 +76,9 @@ did you maintain or iterate based on that feedback?**
 
 **Please walk us through the steps you took to build your solution. Include which products or platforms you used and why. Please include guidance on how to run your code.**
 
+<p align="center">
+ <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/9999999999999999.png">
+</p>
 
 **What do you see as the future / next steps for your project? What will take your project to the next level?**
 
