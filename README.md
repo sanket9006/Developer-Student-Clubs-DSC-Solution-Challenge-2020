@@ -47,7 +47,7 @@
           
           
 <p align="center">
- <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/Unity + Arcore + Firebase + Sketchfab.png">
+ <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/Unity + Arcore + Firebase  + Sketchfab.png">
 </p>
 
 
