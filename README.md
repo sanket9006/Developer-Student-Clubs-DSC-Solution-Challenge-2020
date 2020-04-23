@@ -2,7 +2,8 @@
 > This repository contains the submission for Developer Student Clubs [DSC] Solution Challenge 2020
 ## <p align="center"> Project Title :- AR in Anatomy </p>
 
-  <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/222.png">
+<p align="center">
+ <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/222.png">
 </p>
 
 **Team Member's Email :-**
