@@ -44,6 +44,7 @@
           1) Google AR Core
           2) Firebase
           3) Unity Editor
+          4) Sketchfab Unity Plugin
           
           
 <p align="center">
