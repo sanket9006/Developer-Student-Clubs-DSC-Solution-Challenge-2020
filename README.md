@@ -76,6 +76,10 @@ did you maintain or iterate based on that feedback?**
 
 **Please walk us through the steps you took to build your solution. Include which products or platforms you used and why. Please include guidance on how to run your code.**
 
+<p align="center">
+<img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/steps.png">
+</p>
+
     1) The first task was to look for 3D files of Anatomy of Different parts of Human Body which are useful for 
        students for these we used Sketchfab's Unity Plugin. After these 3D files were resized/scaled according 
        to expecting size in reality. 
