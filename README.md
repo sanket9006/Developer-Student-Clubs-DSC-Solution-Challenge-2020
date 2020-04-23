@@ -78,7 +78,8 @@ did you maintain or iterate based on that feedback?**
 
     1) The first task was to look for 3D files of Anatomy of Different parts of Human Body which are useful for 
        students for these we used Sketchfab's Unity Plugin.
-       <p align="center"> Following Image shows 3D Files Imported using Sketchfab's Unity Plugin </p>
+
+<p align="center"> Following Image shows 3D Files Imported using Sketchfab's Unity Plugin </p>
        
 
 
