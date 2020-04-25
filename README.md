@@ -73,33 +73,38 @@ did you maintain or iterate based on that feedback?**
 
 
 **How will or has your solution improved the lives of people in your community?**
-
+         
+         When our users (mostly Medical student) were stydying Anatomy they had to go through diagrams avaliable in books
+         during which they found it defficult to study with the help of those diagrams because those diagrams contains
+         a lot od different small parts and it was hard to understand or learn by just looking at diagram.
+                   But by using our app they are now able to explore and interact with those diagrams.Because of which
+         they were able to understand and visualize those diagrams in their mind easily as well as strongly.
 
 **Please walk us through the steps you took to build your solution. Include which products or platforms you used and why. Please include guidance on how to run your code.**
 
 Steps took to build solution :-
 
-    1) Create New Unity3D project
-       (Platform - Unity 3D Editor)
-    
-    2) Import 3D models using Sketchfab's Unity Plugin into Project  
-       (Platform - Sketchfab's Unity PlugIn)
-    
-    3) Prepare AR Scene (This scene consist of ARCamera, Scripts, Prefab-3D Model) 
-       (Platform - Google AR Core)
-    
-    4) Made multiple copies of ARScene , in my project I was having 15 3D object thats why I made 15 copies of AR scene.
-    
-    5) To place different objects in AR I replaced prefab present in each scene with respected 3D object.
-    
-    6) Created c# script for changing scenes in order to switch to different scene after clicking inb different button.
-       (Platform - Using Visulat Code Studio)
-    
-    7) Created Main menu scene where 15 button were made avaliable for user to select as per his wish.
-    
-    8) Created Login / SignUp page (scene) for user.
-       (Platform - Firebase)
-    
+1) Create New Unity3D project
+       (Platform - Unity 3D Editor)
+    
+    2) Import 3D models using Sketchfab's Unity Plugin into Project  
+       (Platform - Sketchfab's Unity PlugIn)
+    
+    3) Prepare AR Scene (This scene consist of ARCamera, Scripts, Prefab-3D Model) 
+       (Platform - Google AR Core)
+    
+    4) Made multiple copies of ARScene, in my project I was having 15 3D objects that why I made 15 copies of the AR scene.
+    
+    5) To place different objects in AR I replaced prefab present in each scene with respected 3D object.
+    
+    6) Created a c# script for changing scenes in order to switch to a different scene after clicking on different buttons.
+       (Platform - Using Visual Code Studio)
+    
+    7) Created the Main menu scene where 15 buttons were made available for the user to select as per his wish.
+    
+    8) Created Login / SignUp page (scene) for user.
+       (Platform - Firebase)
+    
     9) Created APK of project.
     
 <p align="center">
