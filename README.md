@@ -108,10 +108,10 @@ Steps took to build solution :-
 
 How to run your code
    
-          To run our project you just have to install the APK in your smartphone and thats it.
+    To run our project you just have to install the APK in your smartphone and thats it.
           
-    If want to open our project in unity editor and you have all required software like Unity Editor, ARCore Package then 
-    by simple clicking Menu.unity file present in Assets\Scenes folder you can open this project
+    If want to open our project in unity editor and you have all required software like Unity Editor, ARCore Package 
+    then by simple clicking Menu.unity file present in Assets\Scenes folder you can open this project
     
     
 <p align="center"> Following Image shows 3D Files Imported using Sketchfab's Unity Plugin </p>
@@ -121,8 +121,7 @@ How to run your code
 <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/9999999999999999.png">
 </p>
 
-    2) Prepare Unity's AR scene and make multiple copies of that scene after that replace the 3D object present in each 
-       scene with imported 3D files. 
+
 
 **What do you see as the future / next steps for your project? What will take your project to the next level?**
 
