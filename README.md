@@ -85,28 +85,37 @@ did you maintain or iterate based on that feedback?**
 Steps took to build solution :-
 
     1) Create New Unity3D project
+    
     (Platform - Unity 3D Editor)
     
     2) Import 3D models using Sketchfab's Unity Plugin into Project   
+    
     (Platform - Sketchfab's Unity PlugIn)
     
     3) Prepare AR Scene (This scene consist of ARCamera, Scripts, Prefab-3D Model) 
+    
        (Platform - Google AR Core)
     
     4) Made multiple copies of ARScene, in my project I was having 15 3D objects that why I made 15 copies of the AR scene.
+    
     
     5) To place different objects in AR I replaced prefab present in each scene with respected 3D object.
     
+    
     6) Created a c# script for changing scenes in order to switch to a different scene after clicking on different buttons.
+    
        (Platform - Using Visual Code Studio)
+       
     
     7) Created the Main menu scene where 15 buttons were made available for the user to select as per his wish.
+    
     
     8) Created Login / SignUp page (scene) for user.
+    
        (Platform - Firebase)
-    
-   
+
     9) Created APK of project.
+    
     
 <p align="center">
 <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/s.png">
