@@ -91,13 +91,13 @@ did you maintain or iterate based on that feedback?**
     
     5) To place different objects in AR I replaced prefab present in each scene with respected 3D object.
     
-    6) 
+    6) Created c# script for changing scenes in order to switch to different scene after clicking inb different button.
     
-    7) 
+    7) Created Main menu scene where 15 button were made avaliable for user to select as per his wish.
     
-    8) 
+    8) Created Login / SignUp page (scene) for user.
     
-    9)  
+    9)  Created APK of project.
     
 
 <p align="center"> Following Image shows 3D Files Imported using Sketchfab's Unity Plugin </p>
