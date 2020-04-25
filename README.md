@@ -84,7 +84,7 @@ did you maintain or iterate based on that feedback?**
 
 Steps took to build solution :-
 
-1) Create New Unity3D project
+    1) Create New Unity3D project
        (Platform - Unity 3D Editor)
     
     2) Import 3D models using Sketchfab's Unity Plugin into Project  
