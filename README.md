@@ -80,7 +80,25 @@ did you maintain or iterate based on that feedback?**
 <p align="center">
 <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/s.png">
 </p>
-
+    
+    1) Create New Unity3D project
+    
+    2) Import 3D models using Sketchfab's Unity Plugin into Project 
+    
+    3) Prepare AR Scene ( consisting of ARCamera, Scripts, Prefab ( 3D Model))
+    
+    4) 
+    
+    5)
+    
+    6) 
+    
+    7) 
+    
+    8) 
+    
+    9)  
+    
     1) The first task was to look for 3D files of Anatomy of Different parts of Human Body which are useful for 
        students for these we used Sketchfab's Unity Plugin. After these 3D files were resized/scaled according 
        to expecting size in reality. 
