@@ -77,25 +77,29 @@ did you maintain or iterate based on that feedback?**
 
 **Please walk us through the steps you took to build your solution. Include which products or platforms you used and why. Please include guidance on how to run your code.**
 
-Steps you took to build your solution :-
+Steps took to build solution :-
 
     1) Create New Unity3D project
+       (Platform - Unity 3D Editor)
     
-    2) Import 3D models using Sketchfab's Unity Plugin into Project 
+    2) Import 3D models using Sketchfab's Unity Plugin into Project  
+       (Platform - Sketchfab's Unity PlugIn)
     
-    3) Prepare AR Scene (This scene consist of ARCamera, Scripts, Prefab-3D Model)
+    3) Prepare AR Scene (This scene consist of ARCamera, Scripts, Prefab-3D Model) 
+       (Platform - Google AR Core)
     
     4) Made multiple copies of ARScene , in my project I was having 15 3D object thats why I made 15 copies of AR scene.
     
     5) To place different objects in AR I replaced prefab present in each scene with respected 3D object.
     
     6) Created c# script for changing scenes in order to switch to different scene after clicking inb different button.
+       (Platform - Using Visulat Code Studio)
     
     7) Created Main menu scene where 15 button were made avaliable for user to select as per his wish.
     
     8) Created Login / SignUp page (scene) for user.
     
-    9)  Created APK of project.
+    9) Created APK of project.
     
 <p align="center">
 <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/s.png">
