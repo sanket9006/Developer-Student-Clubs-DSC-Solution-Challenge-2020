@@ -77,9 +77,6 @@ did you maintain or iterate based on that feedback?**
 
 **Please walk us through the steps you took to build your solution. Include which products or platforms you used and why. Please include guidance on how to run your code.**
 
-<p align="center">
-<img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/s.png">
-</p>
     
     1) Create New Unity3D project
     
@@ -99,7 +96,9 @@ did you maintain or iterate based on that feedback?**
     
     9)  Created APK of project.
     
-
+<p align="center">
+<img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/s.png">
+</p>
 <p align="center"> Following Image shows 3D Files Imported using Sketchfab's Unity Plugin </p>
        
 
