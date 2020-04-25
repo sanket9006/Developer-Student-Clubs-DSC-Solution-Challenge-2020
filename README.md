@@ -98,6 +98,7 @@ Steps took to build solution :-
     7) Created Main menu scene where 15 button were made avaliable for user to select as per his wish.
     
     8) Created Login / SignUp page (scene) for user.
+       (Platform - Firebase)
     
     9) Created APK of project.
     
