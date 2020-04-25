@@ -110,7 +110,8 @@ How to run your code
    
           To run our project you just have to install the APK in your smartphone and thats it.
           
-    If want to open our project in unity editor and you have all required software like Unity Editor, ARCore Package then by simple clicking Menu.unity file present in Assets\Scenes folder you can open this project
+    If want to open our project in unity editor and you have all required software like Unity Editor, ARCore Package then 
+    by simple clicking Menu.unity file present in Assets\Scenes folder you can open this project
     
     
 <p align="center"> Following Image shows 3D Files Imported using Sketchfab's Unity Plugin </p>
