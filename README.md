@@ -77,7 +77,8 @@ did you maintain or iterate based on that feedback?**
 
 **Please walk us through the steps you took to build your solution. Include which products or platforms you used and why. Please include guidance on how to run your code.**
 
-    
+Steps you took to build your solution :-
+
     1) Create New Unity3D project
     
     2) Import 3D models using Sketchfab's Unity Plugin into Project 
