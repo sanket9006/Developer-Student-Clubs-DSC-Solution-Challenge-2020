@@ -85,11 +85,11 @@ did you maintain or iterate based on that feedback?**
     
     2) Import 3D models using Sketchfab's Unity Plugin into Project 
     
-    3) Prepare AR Scene ( consisting of ARCamera, Scripts, Prefab ( 3D Model))
+    3) Prepare AR Scene (This scene consist of ARCamera, Scripts, Prefab-3D Model)
     
-    4) 
+    4) Made multiple copies of ARScene , in my project I was having 15 3D object thats why I made 15 copies of AR scene.
     
-    5)
+    5) To place different objects in AR I replaced prefab present in each scene with respected 3D object.
     
     6) 
     
@@ -99,9 +99,6 @@ did you maintain or iterate based on that feedback?**
     
     9)  
     
-    1) The first task was to look for 3D files of Anatomy of Different parts of Human Body which are useful for 
-       students for these we used Sketchfab's Unity Plugin. After these 3D files were resized/scaled according 
-       to expecting size in reality. 
 
 <p align="center"> Following Image shows 3D Files Imported using Sketchfab's Unity Plugin </p>
        
