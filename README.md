@@ -68,12 +68,13 @@
 
 **Please share the outcome of your testing strategy. What specific feedback did you receive from users? What specifically 
 did you maintain or iterate based on that feedback?**
+                
                 When we were creating our Project (App) at that we were distributing that app to users (Beta testers 
        - Medical Student) where they suggested us to include labels on the diagram (3D Model) so that it will be 
        easy for them to      understand and study that diagram (3D model)
-                Also, they told us to arrange the differents topics (3D models) according to the system. e.g  Heart 
+                Also, they told us to arrange the differents topics (3D models) according to the system. e.g  Heart 
        comes under the cardiovascular system.
-                 After that, we made changes to our project as per user feedback.
+                After that, we made changes to our project as per user feedback.
 
 **How will or has your solution improved the lives of people in your community?**
          
