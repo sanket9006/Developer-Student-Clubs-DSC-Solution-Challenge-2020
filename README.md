@@ -85,6 +85,8 @@ did you maintain or iterate based on that feedback?**
 <p align="center">
  <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/96.PNG">
 </p>
+
+
 **How will or has your solution improved the lives of people in your community?**
          
          When our users (mostly Medical student) were stydying Anatomy they had to go through diagrams avaliable in books
