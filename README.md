@@ -76,6 +76,15 @@ did you maintain or iterate based on that feedback?**
        comes under the cardiovascular system.
                 After that, we made changes to our project as per user feedback.
 
+<p align="center">
+ <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/95.PNG">
+</p>
+
+
+
+<p align="center">
+ <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/96.PNG">
+</p>
 **How will or has your solution improved the lives of people in your community?**
          
          When our users (mostly Medical student) were stydying Anatomy they had to go through diagrams avaliable in books
