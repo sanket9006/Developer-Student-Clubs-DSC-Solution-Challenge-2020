@@ -84,18 +84,12 @@ did you maintain or iterate based on that feedback?**
 
 Steps took to build solution :-
 
-    1) Create New Unity3D project
-    
-      (Platform - Unity 3D Editor)
-    
-    2) Import 3D models using Sketchfab's Unity Plugin into Project   
-    
+    1) Create New Unity3D project.
+       (Platform - Unity 3D Editor)  
+    2) Import 3D models using Sketchfab's Unity Plugin into Project.   
        (Platform - Sketchfab's Unity PlugIn)
-    
     3) Prepare AR Scene (This scene consist of ARCamera, Scripts, Prefab-3D Model) 
-    
        (Platform - Google AR Core)
-    
     4) Made multiple copies of ARScene, in my project I was having 15 3D objects that why I made 15 copies of the AR scene.
     
     
