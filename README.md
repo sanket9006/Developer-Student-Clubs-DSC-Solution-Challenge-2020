@@ -88,7 +88,7 @@ Steps took to build solution :-
           (Platform - Unity 3D Editor)  
        2) Import 3D models using Sketchfab's Unity Plug
        3) Prepare AR Scene (This scene consist of ARCamera, Scripts, Prefab-3D Model) 
-       (Platform - Google AR Core)
+       (Platform - Google AR Core)
        4) Made multiple copies of ARScene, in my project I was having 15 3D objects that why I made 15 copies of the AR scene.
        5) To place different objects in AR I replaced prefab present in each scene with respected 3D object.
        6) Created a c# script for changing scenes in order to switch to a different scene after clicking on different buttons.
