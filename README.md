@@ -16,7 +16,7 @@
           3) maheshparkour265512@gmail.com
           4) chaitanyaabhang9299@gmail.com
 
-**University Name :-**
+**University Name:-**
 
           JSPM's Jayawantrao Sawant College Of Engineering
 
