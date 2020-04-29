@@ -18,7 +18,7 @@
 
 **University Name:-**
 
-          JSPM's Jayawantrao Sawant College Of Engineering
+           JSPM's Jayawantrao Sawant College Of Engineering
 
 
 **Please share about DSC related activities you participated in-**
