@@ -154,7 +154,11 @@ How to run your code
     to our app.                
           
 **What specific support do you need to achieve that?**
-
+                    
+                    I need help in two things one in editing code of ARCore for placing only one object
+    in a single scene which requires someone's expertise in coding and familiarity with Google ARCore and the second
+    one is to give users the option to download new models which I will add to the app in future so someone's expertise
+    in Unity as well as Firebase storage will be helpful.
 
 **Describe your favorite component (s) /feature (s) of your technical infrastructure and why you chose it/them for your solution.**
                     
