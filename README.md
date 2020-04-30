@@ -3,7 +3,10 @@
 
 ## <p align="center"> DSC Solution Challenge 2020 </p>
 
-## <p align="center"> whole Source Code (Project) is at https://drive.google.com/open?id=1a-bJN2VnAg4ktQB1eaNoL3R1aTCkbKnM </p>
+## <p align="center"> Whole Source Code (Project) is at  </p>
+
+<p align="center"> https://drive.google.com/open?id=1a-bJN2VnAg4ktQB1eaNoL3R1aTCkbKnM </p>
+
 ## <p align="center"> Project Title :- AR in Anatomy </p>
 
 
