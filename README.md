@@ -54,7 +54,7 @@
 
 **Please share a 2 minute or less video showing off the user journey of your solution**
 
-[![IMAGE ALT TEXT HERE](https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/Picture1.png width="200" height="400")](https://youtu.be/P3JJLimJYjw)
+[![IMAGE ALT TEXT HERE](https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/Picture1.png)](https://youtu.be/P3JJLimJYjw)
  
 
 
