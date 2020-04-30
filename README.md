@@ -54,8 +54,8 @@
 
 **Please share a 2 minute or less video showing off the user journey of your solution**
 
-
- https://youtu.be/P3JJLimJYjw
+[![IMAGE ALT TEXT HERE](https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/Capture.PNG)](https://youtu.be/P3JJLimJYjw)
+ 
 
 
 **Please clearly describe the challenge you are looking to solve with technology and how this solution addresses the challenge at hand**
