@@ -55,6 +55,9 @@
 **Please share a 2 minute or less video showing off the user journey of your solution**
 
 
+ https://youtu.be/P3JJLimJYjw
+
+
 **Please clearly describe the challenge you are looking to solve with technology and how this solution addresses the challenge at hand**
 
           Currently, a student who wants to study Anatomy of different parts (organs) of the Human Body has to look and 
@@ -64,6 +67,11 @@
     gives labeling of small parts too. AR helps the student better remember the information they have just learned. 
 
 **Walk us through the steps you took to test your solution**
+             
+           When we were creating this app, at that time we were creating APK of our project simultaneously for testing
+    almost we have created APK 40 times. Out of which 20 were regarding the screen resolution problem related to 
+    multiple devices. Also, I have distributed this app among my friends for suggestions and testing. During this, I
+    have come across several issues that I fixed in my Final App.
 
 
 **Please share the outcome of your testing strategy. What specific feedback did you receive from users? What specifically 
