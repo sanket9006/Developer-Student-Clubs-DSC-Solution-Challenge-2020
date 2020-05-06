@@ -1,5 +1,6 @@
 
 > This repository contains the submission for Developer Student Clubs [DSC] Solution Challenge 2020.
+> This app is avaliable on Plaay Store too https://play.google.com/store/apps/details?id=com.Company.ARinAnatomy
 
 ## <p align="center"> DSC Solution Challenge 2020 </p>
 
