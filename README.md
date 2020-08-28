@@ -16,8 +16,6 @@
  <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/222.png">
 </p>
 
-
-
 **Team Member's Email :-**
 
           1) sanket.9006@gmail.com      
